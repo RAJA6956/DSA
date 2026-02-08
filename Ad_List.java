@@ -1,4 +1,4 @@
-//  adjacency List
+//  adjacency List -- you can use either List of List or Array of List
 // memory is O(2*edges+ nodes) for undirected and O(e+nodes) for directed graph
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -33,3 +33,4 @@ public class Ad_List {
     }
     
 }
+
